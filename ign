@@ -1,0 +1,47 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Lucas & Ignacia</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>❤️ Lucas & Ignacia ❤️</h1>
+    <p>Nuestra historia de amor</p>
+</header>
+
+<section class="historia">
+    <h2>Cómo empezó</h2>
+    <p>
+        Nuestra historia comenzó con una sonrisa que cambió nuestras vidas.
+        Desde ese día, cada momento juntos es un recuerdo que guardamos con amor.
+    </p>
+</section>
+
+<section class="razones">
+    <h2>Razones por las que te amo</h2>
+    <ul>
+        <li>Por tu hermosa sonrisa</li>
+        <li>Por tu forma de quererme</li>
+        <li>Por hacerme sentir especial</li>
+        <li>Porque contigo soy feliz</li>
+    </ul>
+</section>
+
+<section class="mensaje">
+    <h2>Para ti</h2>
+    <p>
+        Ignacia, prometo amarte hoy, mañana y siempre.
+        Eres lo mejor que me ha pasado. 💕
+    </p>
+</section>
+
+<footer>
+    <p>Hecho con amor por Lucas 💖</p>
+</footer>
+
+</body>
+</html>
